@@ -135,7 +135,7 @@ Have questions or want to collaborate? Reach out to us:
 - **Website:** [aivie.com](https://aivie.com)
 - **GitHub:** [@aivie-team](https://github.com/aivie-team)
 - **Discord:** [Join our community](https://discord.gg/aivie)
-- **Telegram:** [@aivie](https://t.me/aivie)
+- **Telegram:** [@AivieOfficial](https://t.me/AivieOfficial)
 
 ## 📜 License
 
