@@ -109,7 +109,7 @@ Benefits of public membership:
 
 1. **Connect with Us**
    - [Discord Server](https://discord.gg/aivie) — Live support, language-learning rooms, AI practice bots
-   - [Telegram Group](https://t.me/aivie) — Announcements, updates, and beta tester coordination
+   - [Telegram Group](https://t.me/AivieOfficial) — Announcements, updates, and beta tester coordination
    - [GitHub](https://github.com/aivie-team) — Open SDK, documentation, and contributions
 
 2. **Contribute to Projects**
